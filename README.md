@@ -32,6 +32,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 Here's a walkthrough of implemented user stories:
 iPhone 5s
 ![](https://github.com/JFrick1992/YelpHelper/blob/master/Demo/yelpiPhone5.gif)
+
+
 iPhone 8
 ![](https://github.com/JFrick1992/YelpHelper/blob/master/Demo/yelpiPhone8.gif)
 
